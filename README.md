@@ -17,7 +17,9 @@
 2) We will be using the [{tidyverse}](https://www.tidyverse.org/) (a collection of packages designed for data science, particularly useful for data wrangling and visualization). If you do not yet have the {tidyverse} installed, run the following line of code in your RStudio Console: `install.packages("tidyverse")`
 3) We encourage you to test that your installations are working as expected. Follow [these instructions](https://docs.google.com/document/d/1ItQy91G6QfKaX1-26lracpSbJ52JUie1HZb54LCa9sM/edit?usp=sharing) to ensure a smooth workshop ahead!
 
-### Install Python & Anaconda (expected install/test time: ~X minutes)
+### Install Python & Anaconda (expected install/test time: ~10-15 minutes)
+1) Install Conda following [these instructions](https://docs.conda.io/projects/conda/en/latest/user-guide/install/macos.html). If you aren't sure whether to choose Miniconda or Anaconda, we would reccommend Miniconda.
+2) Run `jupyter notebook` to start coding in the browser.
 
 ### Install git/GitHub (expected install time: ~5 minutes)  
 1) If you are not already using git/GitHub for version control, we recommend you get set up by following the steps outlined [here](https://docs.google.com/document/d/1AQ4zAYxPHOObq-snnnRtEdwCC8TwIJsTHwpaKyvEyoA/edit?usp=sharing). Doing so will allow you to clone (i.e. copy to your computer) the GitHub repositories containing all the data and scripts that you need to follow along with us (steps for cloning a GitHub repository can be found [below](https://github.com/samanthacsik/RLadiesSB-RvsPython/blob/main/README.md#clone-workshop-repos-to-your-computer)).
