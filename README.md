@@ -21,6 +21,9 @@
 1) Install Conda following [these instructions](https://docs.conda.io/projects/conda/en/latest/user-guide/install/macos.html). If you aren't sure whether to choose Miniconda or Anaconda, we would reccommend Miniconda.
 2) Run `jupyter notebook` to start coding in the browser.
 
+** Alternatives to Conda **
+For R users who are new to Python, we are reccommending Conda above for this Meetup, so that everyone is on the same page. If you would prefer to use pip though, please feel free to explore independently or use [this great repo](https://github.com/L4R5m/sb-python-meetup) from Lars to get started. There are also great online tools like [Colab](https://colab.research.google.com) which you can use to get up and running in a browser.
+
 ### Install git/GitHub (expected install time: ~5 minutes)  
 1) If you are not already using git/GitHub for version control, we recommend you get set up by following the steps outlined [here](https://docs.google.com/document/d/1AQ4zAYxPHOObq-snnnRtEdwCC8TwIJsTHwpaKyvEyoA/edit?usp=sharing). Doing so will allow you to clone (i.e. copy to your computer) the GitHub repositories containing all the data and scripts that you need to follow along with us (steps for cloning a GitHub repository can be found [below](https://github.com/samanthacsik/RLadiesSB-RvsPython/blob/main/README.md#clone-workshop-repos-to-your-computer)).
 
