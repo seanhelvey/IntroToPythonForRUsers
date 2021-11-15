@@ -4,9 +4,11 @@
 
 ## Meetup Details
 
-- **Event Description:** Mark you calendars for a first-of-its-kind R-Ladies SB x [Central Coast Python](https://www.meetup.com/central-coast-python/ble) Meetup on December 15th! Python can be a powerful alternative/complementary language to R, and while we here at R-Ladies are certainly partial to the latter, adding another language to our data science toolkit is something we are always excited for. We have collaborated with Central Coast Python to bring you an R to Python (and vice versa) translation workshop, where we will learn to wrangle and visualize the same dataset using both languages. You may choose to follow along on our screens or download the required software and packages to code along on your own machines. If you do not already have R and Python installed, please be sure to do so before the event on December 15th (see **[Software Installation Instructions](https://github.com/samanthacsik/RLadiesSB-RvsPython/blob/main/README.md#software-installation-instructions)** below). We will be available to help troubleshoot any errors on _____. 
+- **Event Description:** Mark you calendars for a first-of-its-kind [R-Ladies SB](https://www.meetup.com/rladies-santa-barbara/) x [Central Coast Python](https://www.meetup.com/central-coast-python) introductory workshop on December 15th! This hybrid event with online and in-person attendees will be an opportunity to celebrate two unique communities by coming together and analyzing one dataset. You may choose to follow along on our screens or download the required software and packages to code along on your own machines. If you do not already have R and Python installed, please be sure to do so before the event on December 15th (see **[Software Installation Instructions](https://github.com/samanthacsik/RLadiesSB-RvsPython/blob/main/README.md#software-installation-instructions)** below). We will be available to help troubleshoot any errors the week before (exact date TBD). 
 
-- **Event Date:** December 15, 2021 at 17:30-19:00PT (virtual only, Zoom link available upon RSVP)
+- **Event Date:** December 15, 2021 at 17:30-19:00PT, office hours 1 week before TBD.
+
+- **Event Location:** Zoom link available upon RSVP and optional in-person attendance at National Center for Ecological Analysis & Synthesis (NCEAS) 1021 Anacapa St. Paid parking is available nearby at city lot #8. The first 75min are free to park and then it’s $1.50 per hour after that. Street parking at the crossroads is also an option, especially after 6pm.
 
 - **RSVP:** [R-Ladies SB Meetup Event](link here) (Python allies can RSVP at [Central Coast Python Meetup Event](link here))
 
