@@ -1,14 +1,14 @@
 # R-Ladies SB x Central Coast Python Collab - Data Wrangling and Viz 
 
-**NOTE:** This README is currently under construction
-
 ## Meetup Details
 
-- **Event Description:** Mark you calendars for a first-of-its-kind R-Ladies SB x [Central Coast Python](https://www.meetup.com/central-coast-python/ble) Meetup on December 15th! Python can be a powerful alternative/complementary language to R, and while we here at R-Ladies are certainly partial to the latter, adding another language to our data science toolkit is something we are always excited for. We have collaborated with Central Coast Python to bring you an R to Python (and vice versa) translation workshop, where we will learn to wrangle and visualize the same dataset using both languages. You may choose to follow along on our screens or download the required software and packages to code along on your own machines. If you do not already have R and Python installed, please be sure to do so before the event on December 15th (see **[Software Installation Instructions](https://github.com/samanthacsik/RLadiesSB-RvsPython/blob/main/README.md#software-installation-instructions)** below). We will be available to help troubleshoot any errors on _____. 
+- **Event Description:** Mark you calendars for a first-of-its-kind [R-Ladies SB](https://www.meetup.com/rladies-santa-barbara/) x [Central Coast Python](https://www.meetup.com/central-coast-python) introductory workshop on December 15th! This hybrid event with online and in-person attendees will be an opportunity to celebrate two unique communities by coming together and analyzing one dataset. You may choose to follow along on our screens or download the required software and packages to code along on your own machines. If you do not already have R and Python installed, please be sure to do so before the event on December 15th (see **[Software Installation Instructions](https://github.com/samanthacsik/RLadiesSB-RvsPython/blob/main/README.md#software-installation-instructions)** below). We will be available to help troubleshoot any errors the week before. 
 
-- **Event Date:** December 15, 2021 at 17:30-19:00PT (virtual only, Zoom link available upon RSVP)
+- **Event Date:** December 15, 2021 at 17:30-19:00PT, office hours 1 week before 12/07 from 5:30-6:30pm via Zoom: https://ucsb.zoom.us/j/81620992244?pwd=d2ZQTCtwZVZvU3Q4M25FN1hIM1Fxdz09.
 
-- **RSVP:** [R-Ladies SB Meetup Event](link here) (Python allies can RSVP at [Central Coast Python Meetup Event](link here))
+- **Event Location:** Zoom link available upon RSVP and optional in-person attendance at National Center for Ecological Analysis & Synthesis (NCEAS) 1021 Anacapa St. Paid parking is available nearby at city lot #8. The first 75min are free to park and then it’s $1.50 per hour after that. Street parking at the crossroads is also an option, especially after 6pm.
+
+- **RSVP:** [R-Ladies SB Meetup Event](https://www.meetup.com/rladies-santa-barbara/events/281807986/) (Python allies can RSVP at [Central Coast Python Meetup Event](https://www.meetup.com/central-coast-python/events/282245942/))
 
 ## Software Installation Instructions
 
@@ -20,6 +20,9 @@
 ### Install Python & Anaconda (expected install/test time: ~10-15 minutes)
 1) Install Conda following [these instructions](https://docs.conda.io/projects/conda/en/latest/user-guide/install/macos.html). If you aren't sure whether to choose Miniconda or Anaconda, we would reccommend Miniconda.
 2) Run `jupyter notebook` to start coding in the browser.
+
+** Alternatives to Conda **
+For R users who are new to Python, we are reccommending Conda above for this Meetup, so that everyone is on the same page. If you would prefer to use pip though, please feel free to explore independently or use [this great repo](https://github.com/L4R5m/sb-python-meetup) from Lars to get started. There are also great online tools like [Colab](https://colab.research.google.com) which you can use to get up and running in a browser.
 
 ### Install git/GitHub (expected install time: ~5 minutes)  
 1) If you are not already using git/GitHub for version control, we recommend you get set up by following the steps outlined [here](https://docs.google.com/document/d/1AQ4zAYxPHOObq-snnnRtEdwCC8TwIJsTHwpaKyvEyoA/edit?usp=sharing). Doing so will allow you to clone (i.e. copy to your computer) the GitHub repositories containing all the data and scripts that you need to follow along with us (steps for cloning a GitHub repository can be found [below](https://github.com/samanthacsik/RLadiesSB-RvsPython/blob/main/README.md#clone-workshop-repos-to-your-computer)).
